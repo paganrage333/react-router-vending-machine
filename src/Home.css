@@ -1,0 +1,10 @@
+
+.Home{
+    background-color: black;
+    background-image: url("https://source.unsplash.com/r74II0tE7tc");
+    background-size: fit;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 92.8vh;
+    padding: 1vh;
+}

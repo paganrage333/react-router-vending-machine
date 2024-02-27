@@ -1,0 +1,9 @@
+.Soda{
+    background-color: rgb(255, 131, 131);
+    background-image: url("https://media.giphy.com/media/N7UGeeTJzggsE/giphy.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 92.8vh;
+    padding: 1vh;
+}

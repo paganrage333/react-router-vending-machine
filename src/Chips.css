@@ -1,0 +1,9 @@
+.Chips{
+    background-color: rgb(255, 243, 78);
+    background-image: url("https://media.giphy.com/media/EFUiKHUiZNQUo/giphy.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 92.8vh;
+    padding: 1vh;
+}

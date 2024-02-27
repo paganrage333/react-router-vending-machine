@@ -1,0 +1,10 @@
+.Mystery{
+    background-color: rgb(51, 49, 21);
+    background-image: url("https://media.giphy.com/media/l4Jzi0iyKHLe1qT9S/giphy.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 92.8vh;
+    padding: 1vh;
+}
+
